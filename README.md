@@ -2,4 +2,4 @@
 Contains all the competittion's repo I participated in
 
 
-0. Titanic Tutorial: # 0_titanic
+# 0_titanic
